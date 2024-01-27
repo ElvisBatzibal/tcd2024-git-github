@@ -29,12 +29,7 @@ git init
 
 Crear ramas. 
 main => master
-developer => dev, develop, developer
-release => r_1.0.0
-feature => feature_login, feature_migration
-bugfix => bugfix_release
-hotfix => hotfix_recovery, hotfix_login
-support
+
 
 
 git status
